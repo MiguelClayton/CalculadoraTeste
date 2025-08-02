@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1754157124 source:d:\onedrive\documentos\olamundo\calculadora\main.cpp
+	<windows.h>
+	<cstdio>
+	<string>
+	<sstream>
+	<iomanip>
+	<algorithm>
+
